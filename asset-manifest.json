@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Advice-Helpline/static/css/main.6e2128d8.chunk.css",
+    "main.js": "/Advice-Helpline/static/js/main.636e2e59.chunk.js",
+    "main.js.map": "/Advice-Helpline/static/js/main.636e2e59.chunk.js.map",
+    "runtime-main.js": "/Advice-Helpline/static/js/runtime-main.9d2b99b3.js",
+    "runtime-main.js.map": "/Advice-Helpline/static/js/runtime-main.9d2b99b3.js.map",
+    "static/js/2.6c9d8ab8.chunk.js": "/Advice-Helpline/static/js/2.6c9d8ab8.chunk.js",
+    "static/js/2.6c9d8ab8.chunk.js.map": "/Advice-Helpline/static/js/2.6c9d8ab8.chunk.js.map",
+    "static/js/3.655ce3dc.chunk.js": "/Advice-Helpline/static/js/3.655ce3dc.chunk.js",
+    "static/js/3.655ce3dc.chunk.js.map": "/Advice-Helpline/static/js/3.655ce3dc.chunk.js.map",
+    "index.html": "/Advice-Helpline/index.html",
+    "static/css/main.6e2128d8.chunk.css.map": "/Advice-Helpline/static/css/main.6e2128d8.chunk.css.map",
+    "static/js/2.6c9d8ab8.chunk.js.LICENSE.txt": "/Advice-Helpline/static/js/2.6c9d8ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d2b99b3.js",
+    "static/js/2.6c9d8ab8.chunk.js",
+    "static/css/main.6e2128d8.chunk.css",
+    "static/js/main.636e2e59.chunk.js"
+  ]
+}
